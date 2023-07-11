@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou o Hugo Zeymer 🤚
 
+Amante de tecnologia e sempre buscando evoluir!
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugozauad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=whit)](https://www.twitch.tv/hugo_captain)
