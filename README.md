@@ -11,7 +11,7 @@ Apaixonado por tecnologia, em busca de novos desafios
 
 ### GitHub Analitico
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugozauad&layout=donut-vertical)](https://github.com/hugozauad/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia!
 
