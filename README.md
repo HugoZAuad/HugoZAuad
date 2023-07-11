@@ -9,7 +9,7 @@ Amante de tecnologia e sempre buscando evoluir!
 
 ![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=radical)
 
-###GitHub Analitico
+### GitHub Analitico
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&hide_progress=true)
 
