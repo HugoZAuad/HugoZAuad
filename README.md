@@ -3,7 +3,7 @@ Olá, eu sou Hugo Zeymer Auad
 - 💡 Atualmente aprendendo a parte de front-end
 - 🧭 Em migração para a área de tecnologia
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoZAuad&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&layout=compact&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoZAuad&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <div>
