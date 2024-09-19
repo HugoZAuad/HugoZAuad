@@ -1,42 +1,21 @@
-<br clear="both">
+# 💫 Sobre mim:
+Olá, eu sou Hugo Zeymer Auad<br>- ⌨️ Sou estudante de desenvolvimento web, com foco em full stack<br>- 💡 Atualmente estudando a parte de front-end<br>- 🧭 Em migração para a área de tecnologia<br>- 📧 Entre em contato comigo: hugozeymer@hotmail.com
 
-<h1 align="left">Olá, eu sou Hugo Zeymer Auad<br>- ⌨️ Sou estudante de desenvolvimento web, com foco em full stack<br>- 💡 Atualmente estudando a parte de front-end<br>- 🧭 Em migração para a área de tecnologia<br>- 📧 Entre em contato comigo: hugozeymer@hotmail.com</h1>
 
-###
+## 🌐 Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hugozauad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugozauad/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hugozauad) 
 
-<br clear="both">
+# 💻 Tecnologias:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HugoZAuad&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HugoZAuad&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/hugozauad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/hugozauad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo"  />
-  </a>
-</div>
+### 🔝 Top Contribuições
+![](https://github-contributor-stats.vercel.app/api?username=HugoZAuad&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=HugoZAuad&icon=3&color=6)](https://visitcount.itsvg.in)
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=HugoZAuad&locale=pt-br&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
