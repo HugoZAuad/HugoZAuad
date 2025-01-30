@@ -1,8 +1,5 @@
 ## 💫 Sobre mim:
-Olá, eu sou Hugo Zeymer Auad<br>- ⌨️ Sou estudante de desenvolvimento web, com foco em full stack<br>- 💡 Atualmente estudando a parte de front-end<br>- 🧭 Em migração para a área de tecnologia<br>- 📧 Entre em contato comigo: hugozeymer@gmail.com
-
-## 💫 About me:
-Hello, I'm Hugo Zeymer Auad<br>- ⌨️ I'm a web development student, focusing on full stack<br>- 💡 Currently studying the front-end part<br>- 🧭 Migrating to the technology area<br >- 📧 Contact me: hugozeymer@gmail.com
+Olá, eu sou Hugo Zeymer Auad / Hello, I'm Hugo Zeymer Auad<br>- ⌨️ Sou estudante de desenvolvimento web, com foco em full stack / I'm a web development student, focusing on full stack<br>- 💡 Atualmente estudando a parte de front-end / Currently studying the front-end part<br>- 🧭 Em migração para a área de tecnologia / Migrating to the technology area<br>- 📧 Entre em contato comigo / Contact me: hugozeymer@gmail.com
 
 ## 🌐 Sociais / 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugozauad/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hugozauad/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hugozauad) 
@@ -15,7 +12,7 @@ Hello, I'm Hugo Zeymer Auad<br>- ⌨️ I'm a web development student, focusing 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HugoZAuad&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔝 Top Contribuições / ## 🔝 Top Contributions:
+## 🔝 Top Contribuições / 🔝 Top Contributions:
 ![](https://github-contributor-stats.vercel.app/api?username=HugoZAuad&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---
