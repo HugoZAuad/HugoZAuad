@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, eu sou Hugo Zeymer Auad<br>- ⌨️ Sou estudante de desenvolvimento web, com foco em full stack<br>- 💡 Atualmente estudando a parte de front-end<br>- 🧭 Em migração para a área de tecnologia<br>- 📧 Entre em contato comigo: hugozeymer@hotmail.com
+Olá, eu sou Hugo Zeymer Auad<br>- ⌨️ Sou estudante de desenvolvimento web, com foco em full stack<br>- 💡 Atualmente estudando a parte de front-end<br>- 🧭 Em migração para a área de tecnologia<br>- 📧 Entre em contato comigo: hugozeymer@gmail.com
 
 
 ## 🌐 Sociais:
