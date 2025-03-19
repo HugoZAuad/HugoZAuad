@@ -6,6 +6,31 @@
 
 ###
 
+
+
+###
+
+<h2 align="left">Cursos Complementares e Certificações</h2>
+
+###
+
+<h3 align="left">Origamid - Curso sobre Front-End completo do basico ao avançado - Cursando</h3>
+<h3 align="left">DNC - Formação em Desenvolvedor Full-Stack - Cursando</h3>
+  
+###
+
+  <p align="left">- Introdução à Lógica de Programação - Concluído</p>
+  <p align="left">- Introdução a HTML + CSS - Concluído</p>
+  <p align="left">- Lógica de Programação com JavaScript - Concluído</p>
+  <p align="left">- Princípios de Design de Interface - Concluído</p>
+  <p align="left">- Introdução ao Desenvolvimento Web - Concluído</p>
+  <p align="left">- Introdução ao Front End com React.JS - Concluído</p>
+  <p align="left">- Scrum - Gestão de Projetos Ágeis - Concluído</p>
+  <p align="left">- Versionamento de Código Git - Concluído</p>
+  <p align="left">- Desenvolvimento Front End - Concluído</p>
+  
+###
+
 <h2 align="left">Sobre mim</h2>
 
 ###
@@ -50,7 +75,7 @@
 
 ###
 
-<h2 align="left">Estatíscias e steaks</h2>
+<h2 align="left">Estatíscias e stacks</h2>
 
 ###
 
