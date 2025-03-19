@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Academico e certificações</h2>
+<h2 align="left">Cursos e certificações</h2>
 
 ###
 
