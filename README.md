@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Graduando em Ciencias da Computação - Cursando</h3>
+<h3 align="left">Graduando em Ciencias da Computação - Gran Faculdade (EAD) - Cursando</h3>
 
 ###
 
