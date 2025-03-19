@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">Meu nome é Hugo e sou estudante de programação Barachelado em Ciencias da computação, com previsão de termino para Janeiro/2029</p>
+<p align="left">Meu nome é Hugo e sou estudante de programação Barachelado em Ciencias da Computação, com previsão de termino para Janeiro/2029</p>
 
 ###
 
-
+<h2 align="left">Academico e certificações</h2>
 
 ###
 
-<h2 align="left">Cursos Complementares e Certificações</h2>
+<h3 align="left">Graduando em Ciencias da Computação - Cursando</h3>
 
 ###
 
