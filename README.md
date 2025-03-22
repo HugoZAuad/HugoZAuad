@@ -11,9 +11,6 @@
 ###
 
 <h3 align="left">Graduando em Ciencias da Computação - Gran Faculdade (EAD) - Cursando</h3>
-
-###
-
 <h3 align="left">Origamid - Curso sobre Front-End completo do basico ao avançado - Cursando</h3>
 <h3 align="left">DNC - Formação em Desenvolvedor Full-Stack - Cursando</h3>
   
@@ -82,14 +79,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hugozauad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugozauad&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=hugozauad&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hugozauad.hugozauad&left_color=lightgray&right_color=royalblue&left_text=Visitantes"  />
-
-###
+<h2 align="left">Minhas Redes</h2>
 
 <div align="left">
   <a href="www.instagram/hugozauad" target="_blank">
@@ -105,5 +99,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hugozauad.hugozauad&left_color=lightgray&right_color=royalblue&left_text=Visitantes"  />
 
 ###
