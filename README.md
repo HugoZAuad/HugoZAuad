@@ -10,21 +10,25 @@
 
 ###
 
-<h3 align="left">Graduando em Ciencias da Computação - Gran Faculdade (EAD) - Cursando</h3>
-<h3 align="left">Origamid - Curso sobre Front-End completo do basico ao avançado - Cursando</h3>
-<h3 align="left">DNC - Formação em Desenvolvedor Full-Stack - Cursando</h3>
+<h3 align="left">Cursos</h3>
+
+<h4 align="left">Graduando em Ciencias da Computação - Gran Faculdade (EAD) - Cursando</h4>
+<h4 align="left">Origamid - Curso sobre Front-End completo do basico ao avançado - Cursando</h4>
+<h4 align="left">DNC - Formação em Desenvolvedor Full-Stack - Cursando</h4>
   
 ###
 
-  <p align="left">- Introdução à Lógica de Programação - Concluído</p>
-  <p align="left">- Introdução a HTML + CSS - Concluído</p>
-  <p align="left">- Lógica de Programação com JavaScript - Concluído</p>
-  <p align="left">- Princípios de Design de Interface - Concluído</p>
-  <p align="left">- Introdução ao Desenvolvimento Web - Concluído</p>
-  <p align="left">- Introdução ao Front End com React.JS - Concluído</p>
-  <p align="left">- Scrum - Gestão de Projetos Ágeis - Concluído</p>
-  <p align="left">- Versionamento de Código Git - Concluído</p>
-  <p align="left">- Desenvolvimento Front End - Concluído</p>
+<h3 align="left">Certificações</h3>
+
+  <h4 align="left">- Introdução à Lógica de Programação - Concluído</h4>
+  <h4 align="left">- Introdução a HTML + CSS - Concluído</h4>
+  <h4 align="left">- Lógica de Programação com JavaScript - Concluído</h4>
+  <h4 align="left">- Princípios de Design de Interface - Concluído</h4>
+  <h4 align="left">- Introdução ao Desenvolvimento Web - Concluído</h4>
+  <h4 align="left">- Introdução ao Front End com React.JS - Concluído</h4>
+  <h4 align="left">- Scrum - Gestão de Projetos Ágeis - Concluído</h4>
+  <h4 align="left">- Versionamento de Código Git - Concluído</h4>
+  <h4 align="left">- Desenvolvimento Front End - Concluído</h4>
   
 ###
 
@@ -40,7 +44,7 @@
 
 ###
 
-<div align="left">
+<section align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -68,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-</div>
+</section>
 
 ###
 
@@ -76,10 +80,10 @@
 
 ###
 
-<div align="center">
+<section align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hugozauad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugozauad&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</section>
 
 ###
 
