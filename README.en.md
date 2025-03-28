@@ -1,3 +1,5 @@
+# [English](README.en.md)
+
 # Hello, I'm Hugo! 👋
 
 I am a computer science student in love with technology and web development. I am always looking to learn and grow in the programming area.
