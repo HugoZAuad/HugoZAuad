@@ -1,12 +1,10 @@
-# Before select which language you want!
+# Select which language you want!
 
-###### [English](README.en.md)
-
-###### [Portuguese](README.md)
+### [English](README.en.md)/[Portuguese](README.md)
 
 * * *
 
-# Olá, eu sou Hugo! 👋
+# Hello, I'm Hugo! 👋
 
 I am a computer science student in love with technology and web development. I am always looking to learn and grow in the programming area.
 
@@ -62,7 +60,7 @@ I am passionate about technology, with experience in various areas of front end 
 
 * * *
 
-## Tecnologias que Trabalho
+## Technologies that work
 
 <section align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
