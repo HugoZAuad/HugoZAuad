@@ -1,4 +1,4 @@
-###### [English Readme](README.en.md)
+###### [Translate](README.en.md)
 
 # Hello, I'm Hugo! 👋
 
@@ -17,7 +17,7 @@ I am a computer science student in love with technology and web development. I a
 
 ## About me
 
-I am passionate about technology, with experience in various areas of front end development.
+Sou apaixonado por tecnologia, com experiência em diversas áreas do desenvolvimento Front-End. 
 
 💻**Skills**: Proficiente em HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
 
