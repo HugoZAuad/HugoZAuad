@@ -16,4 +16,4 @@ jobs:
       - name: Translate README
         uses: dephraiim/translate-readme@main
         with:
-          args: "README.md --to en"
+          LANG: "en" 
