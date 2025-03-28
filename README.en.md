@@ -1,4 +1,4 @@
-### [English Readme](README.en.md)
+### [Português Readme](README.md)
 
 # Hello, I'm Hugo! 👋
 
