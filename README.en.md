@@ -1,10 +1,12 @@
+# Before select which language you want!
+
 ###### [English](README.en.md)
 
 ###### [Portuguese](README.md)
 
 * * *
 
-# Hello, I'm Hugo! 👋
+# Olá, eu sou Hugo! 👋
 
 I am a computer science student in love with technology and web development. I am always looking to learn and grow in the programming area.
 
@@ -36,7 +38,7 @@ I am passionate about technology, with experience in various areas of front end 
 -   **Graduating in Computer Science**- Gran College (EAD) - Studying
 -   **DNC**- Full -stack developer training - attending
 
-### Certificações
+### Certifications
 
 -   Introduction to Programming Logic - Completed
 -   Introduction to HTML + CSS - Completed
@@ -50,7 +52,7 @@ I am passionate about technology, with experience in various areas of front end 
 
 * * *
 
-## Alguns Projetos
+## Some projects
 
 -   **Country Researcher Site**: Application that allows you to search information about countries using the Rest Country API. Displays details such as capital, continent, population and flag.
 -   **Product Management Application**: Simple product manager, allowing you to add, view and remove products from a list.
@@ -60,7 +62,7 @@ I am passionate about technology, with experience in various areas of front end 
 
 * * *
 
-## Technologies that work
+## Tecnologias que Trabalho
 
 <section align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
