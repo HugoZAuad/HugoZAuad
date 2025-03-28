@@ -1,21 +1,19 @@
 name: Translate README
 
-on:
-  push:
-    branches:
-      - main
-      - master
+on: [push]
 
 jobs:
-  build:
+  translate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Add this line
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12.x
-      - name: Adding README - English
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Translate README
         uses: dephraiim/translate-readme@main
         with:
-          LANG: en
+          args: "README.md"
