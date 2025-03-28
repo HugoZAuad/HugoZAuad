@@ -1,7 +1,6 @@
-# Antes selecione qual a lingua que deseja!
+# Selecione qual a lingua que deseja!
 
-###### [English](README.en.md)
-###### [Português](README.md)
+### [English](README.en.md) / [Português](README.md)
 
 ---
 # Olá, eu sou Hugo! 👋
