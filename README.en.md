@@ -1,5 +1,7 @@
 ###### [Translate](README.en.md)
 
+* * *
+
 # Hello, I'm Hugo! 👋
 
 I am a computer science student in love with technology and web development. I am always looking to learn and grow in the programming area.
@@ -17,7 +19,7 @@ I am a computer science student in love with technology and web development. I a
 
 ## About me
 
-Sou apaixonado por tecnologia, com experiência em diversas áreas do desenvolvimento Front-End. 
+I am passionate about technology, with experience in various areas of front end development.
 
 💻**Skills**: Proficiente em HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
 
@@ -46,11 +48,13 @@ Sou apaixonado por tecnologia, com experiência em diversas áreas do desenvolvi
 
 * * *
 
-## Projects carried out
+## Some projects
 
 -   **Country Researcher Site**: Application that allows you to search information about countries using the Rest Country API. Displays details such as capital, continent, population and flag.
 -   **Product Management Application**: Simple product manager, allowing you to add, view and remove products from a list.
 -   **Personal portfolio**: Portfolio developed with Next.js and Tailwind CSS, presenting skills, projects and technologies.
+-   **Climate application**: It is a real -time climate app developed with React.js, Next.js and Tailwind CSS.
+-   **Authentication Email Google**: Project demonstrates how to implement authentication using the Google account on a web application using firebase as a backend.
 
 * * *
 
