@@ -1,5 +1,6 @@
 ###### [Translate](README.en.md)
 
+---
 # Olá, eu sou Hugo! 👋
 
 Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de aprender e crescer na área de programação.
@@ -45,11 +46,13 @@ Sou apaixonado por tecnologia, com experiência em diversas áreas do desenvolvi
 
 ---
 
-## Projetos Realizados
+## Alguns Projetos
 
 - **Site Pesquisador de Países**: Aplicativo que permite pesquisar informações sobre países usando a API REST Countries. Exibe detalhes como capital, continente, população e bandeira.
 - **Aplicativo de Gestão de Produtos**: Gerenciador de produtos simples, permitindo adicionar, visualizar e remover produtos de uma lista.
 - **Portfólio Pessoal**: Portfólio desenvolvido com Next.js e TailWind CSS, apresentando habilidades, projetos e tecnologias.
+- **Aplicativo de Clima**: É um aplicativo de clima em tempo real desenvolvido com React.js, Next.js e Tailwind CSS.
+- **Autenticação e-mail google**: Projeto demonstra como implementar a autenticação usando a conta Google em uma aplicação web, utilizando o Firebase como backend.
 
 ---
 
