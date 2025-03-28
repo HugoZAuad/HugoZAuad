@@ -1,4 +1,6 @@
-###### [Translate](README.en.md)
+###### [English](README.en.md)
+
+###### [Portuguese](README.md)
 
 * * *
 
@@ -34,7 +36,7 @@ I am passionate about technology, with experience in various areas of front end 
 -   **Graduating in Computer Science**- Gran College (EAD) - Studying
 -   **DNC**- Full -stack developer training - attending
 
-### Certifications
+### Certificações
 
 -   Introduction to Programming Logic - Completed
 -   Introduction to HTML + CSS - Completed
@@ -48,12 +50,12 @@ I am passionate about technology, with experience in various areas of front end 
 
 * * *
 
-## Some projects
+## Alguns Projetos
 
 -   **Country Researcher Site**: Application that allows you to search information about countries using the Rest Country API. Displays details such as capital, continent, population and flag.
--   **Product Management Application**: Gerenciador de produtos simples, permitindo adicionar, visualizar e remover produtos de uma lista.
+-   **Product Management Application**: Simple product manager, allowing you to add, view and remove products from a list.
 -   **Personal portfolio**: Portfolio developed with Next.js and Tailwind CSS, presenting skills, projects and technologies.
--   **Aplicativo de Clima**: It is a real -time climate app developed with React.js, Next.js and Tailwind CSS.
+-   **Climate application**: It is a real -time climate app developed with React.js, Next.js and Tailwind CSS.
 -   **Authentication Email Google**: Project demonstrates how to implement authentication using the Google account on a web application using firebase as a backend.
 
 * * *
