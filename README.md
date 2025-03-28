@@ -1,111 +1,105 @@
-<h1 align="left">Olá 👋 Como está?</h1>
+# Olá, eu sou Hugo! 👋
 
-###
+Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de aprender e crescer na área de programação.
 
-<p align="left">Meu nome é Hugo e sou estudante de programação Barachelado em Ciencias da Computação, com previsão de termino para Janeiro/2028</p>
+## Sumário
+- [Sobre Mim](#sobre-mim)
+- [Cursos e Certificações](#cursos-e-certificações)
+- [Projetos Realizados](#projetos-realizados)
+- [Tecnologias que Trabalho](#tecnologias-que-trabalho)
+- [Estatísticas do GitHub](#estatísticas-do-github)
+- [Minhas Redes](#minhas-redes)
 
-###
+---
 
-<h2 align="left">Cursos e certificações</h2>
+## Sobre Mim
 
-###
+Sou apaixonado por tecnologia, com experiência em diversas áreas do desenvolvimento Front-End. 
 
-<h3 align="left">Cursos</h3>
+💻 **Habilidades**: Proficiente em HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
 
-<h4 align="left">Graduando em Ciencias da Computação - Gran Faculdade (EAD) - Cursando</h4>
-<h4 align="left">Origamid - Curso sobre Front-End completo do basico ao avançado - Cursando</h4>
-<h4 align="left">DNC - Formação em Desenvolvedor Full-Stack - Cursando</h4>
-  
-###
+🎯 **Objetivo**: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.
 
-<h3 align="left">Certificações</h3>
+---
 
-  <h4 align="left">- Introdução à Lógica de Programação - Concluído</h4>
-  <h4 align="left">- Introdução a HTML + CSS - Concluído</h4>
-  <h4 align="left">- Lógica de Programação com JavaScript - Concluído</h4>
-  <h4 align="left">- Princípios de Design de Interface - Concluído</h4>
-  <h4 align="left">- Introdução ao Desenvolvimento Web - Concluído</h4>
-  <h4 align="left">- Introdução ao Front End com React.JS - Concluído</h4>
-  <h4 align="left">- Scrum - Gestão de Projetos Ágeis - Concluído</h4>
-  <h4 align="left">- Versionamento de Código Git - Concluído</h4>
-  <h4 align="left">- Desenvolvimento Front End - Concluído</h4>
-  
-###
+## Cursos e Certificações
 
-<h2 align="left">Sobre mim</h2>
+### Cursos
 
-###
+- **Graduando em Ciências da Computação** - Gran Faculdade (EAD) - Cursando
+- **DNC** - Formação em Desenvolvedor Full-Stack - Cursando
 
-<p align="left">Um apaixonado por tecnologia com experiência em diversas áreas do desenvolvimento Front-End.<br><br>💻 Proficiente em HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js. <br><br>✨ Projetos Realizados<br><br>- Site Pesquisador de países: É um aplicativo simples que permite aos usuários pesquisar informações sobre países usando a API REST Countries. O aplicativo exibe detalhes como capital, continente, população e a bandeira do país pesquisado. Desenvolvido em HTML5, CSS3 e JavaScript.<br><br>- Aplicativo de Gestão de produtos: Este projeto é um gerenciador de produtos simples, desenvolvido em HTML, CSS e JavaScript. O objetivo é permitir que os usuários adicionem, visualizem e removam produtos de uma lista.<br><br>- Portfólio Pessoal: Desenvolvi um portfólio pessoal utilizando Next.js e TailWind CSS, no qual é mostrado as skills, projetos já criados e tecnologias que já trabalhei/trabalho.<br><br>🎯 Objetivo<br><br>Atualmente, estou em busca da minha primeira oportunidade no mercado de TI, onde eu possa aplicar e expandir meus conhecimentos, contribuindo de forma significativa para projetos inovadores e desafiadores.</p>
+### Certificações
 
-###
+- Introdução à Lógica de Programação - Concluído
+- Introdução a HTML + CSS - Concluído
+- Lógica de Programação com JavaScript - Concluído
+- Princípios de Design de Interface - Concluído
+- Introdução ao Desenvolvimento Web - Concluído
+- Introdução ao Front End com React.JS - Concluído
+- Scrum - Gestão de Projetos Ágeis - Concluído
+- Versionamento de Código Git - Concluído
+- Desenvolvimento Front End - Concluído
 
-<h2 align="left">As tecnologias que trabalho</h2>
+---
 
-###
+## Projetos Realizados
+
+- **Site Pesquisador de Países**: Aplicativo que permite pesquisar informações sobre países usando a API REST Countries. Exibe detalhes como capital, continente, população e bandeira.
+- **Aplicativo de Gestão de Produtos**: Gerenciador de produtos simples, permitindo adicionar, visualizar e remover produtos de uma lista.
+- **Portfólio Pessoal**: Portfólio desenvolvido com Next.js e TailWind CSS, apresentando habilidades, projetos e tecnologias.
+
+---
+
+## Tecnologias que Trabalho
 
 <section align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
 </section>
 
-###
+---
 
-<h2 align="left">Estatíscias e stacks</h2>
-
-###
+## Estatísticas do GitHub
 
 <section align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugozauad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugozauad&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hugozauad&show_icons=true&theme=nightowl&locale=pt-br" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugozauad&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=nightowl" height="150" alt="languages graph" />
 </section>
 
-###
+---
 
-<h2 align="left">Minhas Redes</h2>
+## Minhas Redes
 
 <div align="left">
-  <a href="www.instagram/hugozauad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+  <a href="https://www.instagram.com/hugozauad" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/hugozauad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo" />
   </a>
-  <a href="hugozeymer@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="30" alt="microsoft-outlook logo"  />
+  <a href="mailto:hugozeymer@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="30" alt="microsoft-outlook logo" />
   </a>
-  <a href="hugozeymer@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
+  <a href="mailto:hugozeymer@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo" />
   </a>
 </div>
 
-###
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hugozauad.hugozauad&left_color=lightgray&right_color=royalblue&left_text=Visitantes"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hugozauad.hugozauad&left_color=lightgray&right_color=royalblue&left_text=Visitantes" />
 
-###
+---
