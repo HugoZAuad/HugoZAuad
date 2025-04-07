@@ -4,63 +4,35 @@
 
 * * *
 
-# Hello, I'm Hugo! 👋
+<section align="center">
+  
+# Olá, eu sou Hugo! 👋
+
+</section>
 
 I am a computer science student in love with technology and web development. I am always looking to learn and grow in the programming area.
 
-## Summary
+* * *
 
--   [About me](#sobre-mim)
--   [Courses and Certifications](#cursos-e-certificações)
--   [Projects carried out](#projetos-realizados)
--   [Technologies that work](#tecnologias-que-trabalho)
--   [Github Statistics](#estatísticas-do-github)
--   [My networks](#minhas-redes)
+<section align="center">
+  
+### Este é o meu repositorio de Desenvolvimento Web - Front-End
+  
+</section>
 
 * * *
 
-## About me
+## About me:
 
-I am passionate about technology, with experience in various areas of front end development.
+I could start by saying "I'm a front-end developer with experience in React, Next.js and TypeScript", but let's be honest: that everyone says. So let me tell you what really matters. I like to build interfaces that make sense, which are intuitive and functional, but also beautiful and agile. Because, at the end of the day, the code is not just about running - it's about creating experiences.
 
-💻**Skills**: Proficiente em HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
+💻**Skills**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
 
 🎯**Aim**: I seek my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.
 
 * * *
 
-## Courses and Certifications
-
-### Courses
-
--   **Graduating in Computer Science**- Gran College (EAD) - Studying
--   **DNC**- Full -stack developer training - attending
-
-### Certifications
-
--   Introduction to Programming Logic - Completed
--   Introduction to HTML + CSS - Completed
--   Programming logic with JavaScript - Completed
--   Interface Design Principles - Completed
--   Introduction to Web Development - Completed
--   Introduction to Front End with React.JS - Completed
--   Scrum - Agile Project Management - Completed
--   GIT Code Version - Completed
--   FRONT END DEVELOPMENT - Completed
-
-* * *
-
-## Some projects
-
--   **Country Researcher Site**: Application that allows you to search information about countries using the Rest Country API. Displays details such as capital, continent, population and flag.
--   **Product Management Application**: Simple product manager, allowing you to add, view and remove products from a list.
--   **Personal portfolio**: Portfolio developed with Next.js and Tailwind CSS, presenting skills, projects and technologies.
--   **Climate application**: It is a real -time climate app developed with React.js, Next.js and Tailwind CSS.
--   **Authentication Email Google**: Project demonstrates how to implement authentication using the Google account on a web application using firebase as a backend.
-
-* * *
-
-## Technologies that work
+## Tech Stack
 
 <section align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -81,15 +53,6 @@ I am passionate about technology, with experience in various areas of front end 
 
 * * *
 
-## Github Statistics
-
-<section align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugozauad&show_icons=true&theme=nightowl&locale=pt-br" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugozauad&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=nightowl" height="150" alt="languages graph" />
-</section>
-
-* * *
-
 ## My networks
 
 <div align="left">
@@ -106,6 +69,15 @@ I am passionate about technology, with experience in various areas of front end 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo" />
   </a>
 </div>
+
+* * *
+
+## Github Statistics
+
+<section align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugozauad&show_icons=true&theme=nightowl&locale=pt-br" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugozauad&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=nightowl" height="150" alt="languages graph" />
+</section>
 
 * * *
 
