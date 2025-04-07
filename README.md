@@ -13,17 +13,9 @@ Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenv
 
 ---
 
-<section align="center">
-  
-### Este é o meu repositorio de Desenvolvimento Web - Front-End
-  
-</section>
-
----
-
 ## Sobre Mim:
 
-Eu podia começar dizendo "Sou um desenvolvedor Front-End com experiência em React, Next.js e TypeScript", mas vamos ser sinceros: isso todo mundo já diz. Então, deixa eu te contar o que realmente importa. Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar—é sobre criar experiências.
+Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar—é sobre criar experiências.
 
 💻 **Habilidades**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
 
