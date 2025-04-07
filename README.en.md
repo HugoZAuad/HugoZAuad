@@ -14,17 +14,9 @@ I am a computer science student in love with technology and web development. I a
 
 * * *
 
-<section align="center">
-  
-### Este é o meu repositorio de Desenvolvimento Web - Front-End
-  
-</section>
-
-* * *
-
 ## About me:
 
-I could start by saying "I'm a front-end developer with experience in React, Next.js and TypeScript", but let's be honest: that everyone says. So let me tell you what really matters. I like to build interfaces that make sense, which are intuitive and functional, but also beautiful and agile. Because, at the end of the day, the code is not just about running - it's about creating experiences.
+I like to build interfaces that make sense, which are intuitive and functional, but also beautiful and agile. Because, at the end of the day, the code is not just about running - it's about creating experiences.
 
 💻**Skills**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
 
