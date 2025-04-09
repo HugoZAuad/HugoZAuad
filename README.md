@@ -47,11 +47,11 @@ Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionai
 ## Minhas Redes
 
 <div align="left">
-  <a href="https://www.instagram.com/hugozauad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo" />
-  </a>
   <a href="https://www.linkedin.com/in/hugozauad/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/hugozauad" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo" />
   </a>
   <a href="mailto:hugozeymer@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="30" alt="microsoft-outlook logo" />
