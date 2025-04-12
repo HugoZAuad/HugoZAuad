@@ -1,0 +1,27 @@
+name: Translate README
+
+on: [push]
+
+jobs:
+  translate-readme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Translate README to English
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: "en"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Translate README to English"
+          git push
