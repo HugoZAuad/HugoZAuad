@@ -18,9 +18,9 @@ I am a computer science student in love with technology and web development. I a
 
 I like to build interfaces that make sense, which are intuitive and functional, but also beautiful and agile. Because, at the end of the day, the code is not just about running, it is about creating**experiences**.
 
-💻 **Habilidades**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js e Next.js.
+💻**Skills**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js e Next.js.
 
-🎯**Aim**: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.
+🎯**Aim**: I seek my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.
 
 * * *
 
