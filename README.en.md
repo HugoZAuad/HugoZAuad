@@ -1,20 +1,22 @@
-<h1 align="left">Selecione o idioma:</h1>
+<h1 align="left">Select the Language:</h1>
 
 #### [English Readme](README.en.md)-[Português Readme](README.md)
 
-<h1 align="center">Olá, eu sou Hugo! 👋</h1>
+<h1 align="center">Hello, I’m Hugo! 👋</h1>
 
 ### 
 
-<p align="left">Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de aprender e crescer na área de programação.</p>
+<p align="left">I’m a Computer Science student passionate about technology and web development. I’m always looking to learn and grow in the field of programming.</p>
 
 ### 
 
-<h2 align="left">Sobre Mim:</h2>
+<h2 align="left">About Me:</h2>
 
 ### 
 
-<p align="left">Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar, é sobre criar experiências.<br><br>💻 Habilidades: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js e Next.js.<br><br>🎯 Objetivo: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.</p>
+<p align="left">I enjoy building interfaces that make sense, are intuitive and functional, but also beautiful and agile. Because, at the end of the day, coding isn’t just about running—it’s about creating experiences.<br><br>
+  💻 Skills: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Bootstrap, Styled Components, Node.js, React.js, and Next.js.<br><br>
+  🎯 Goal: I’m seeking my first opportunity in the IT industry to apply and expand my knowledge, contributing to innovative and challenging projects.</p>
 
 ### 
 
@@ -54,7 +56,7 @@
 
 ### 
 
-<h2 align="left">Minhas Redes</h2>
+<h2 align="left">My Networks</h2>
 
 ### 
 
@@ -75,7 +77,7 @@
 
 ### 
 
-<h2 align="left">Estatísticas do GitHub</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ### 
 
@@ -88,6 +90,6 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HugoZAuad.HugoZAuad&right_color=dodgerblue&left_text=Visitantes"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HugoZAuad.HugoZAuad&right_color=dodgerblue&left_text=Visitors"  />
 
 ### 
