@@ -82,10 +82,6 @@
 
 ### 
 
-<img src="https://raw.githubusercontent.com/HugoZAuad/HugoZAuad/output/snake.svg" alt="Snake animation" />
-
-### 
-
 <br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HugoZAuad.HugoZAuad&right_color=dodgerblue&left_text=Visitantes"  />
