@@ -16,11 +16,11 @@ I am a computer science student in love with technology and web development. I a
 
 ## About me:
 
-I like to build interfaces that make sense, which are intuitive and functional, but also beautiful and agile. Because, at the end of the day, the code is not just about running - it's about creating experiences.
+I like to build interfaces that make sense, which are intuitive and functional, but also beautiful and agile. Because, at the end of the day, the code is not just about running, it is about creating**experiences**.
 
-💻**Skills**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
+💻**Skills**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js e Next.js.
 
-🎯**Objetivo**: I seek my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.
+🎯**Aim**: I seek my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.
 
 * * *
 
@@ -45,7 +45,7 @@ I like to build interfaces that make sense, which are intuitive and functional, 
 
 * * *
 
-## Minhas Redes
+## My networks
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hugozauad/" target="_blank">
