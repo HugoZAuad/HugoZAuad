@@ -72,10 +72,6 @@ Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionai
 
 ---
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hugozauad.hugozauad&left_color=lightgray&right_color=royalblue&left_text=Visitantes" />
 
 ---
