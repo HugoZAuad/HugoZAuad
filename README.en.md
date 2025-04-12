@@ -14,7 +14,7 @@
 
 ### 
 
-<p align="left">I enjoy building interfaces that make sense, that are intuitive and functional, but also beautiful and agile. Because, at the end of the day, code is not just about running—it's about creating experiences.<br><br>💻 Skills: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js, and Next.js.<br><br>🎯 Goal: I am seeking my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.</p>
+<p align="left">I enjoy building interfaces that make sense, that are intuitive and functional, but also beautiful and agile. Because, at the end of the day, code is not just about running—it's about creating experiences.<br><br>🎯 Goal: I am seeking my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.</p>
 
 ### 
 
