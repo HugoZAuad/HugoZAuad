@@ -15,9 +15,9 @@ Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenv
 
 ## Sobre Mim:
 
-Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar—é sobre criar experiências.
+Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar, é sobre criar **experiências**.
 
-💻 **Habilidades**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, Node.js, React.js e Next.js.
+💻 **Habilidades**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js e Next.js.
 
 🎯 **Objetivo**: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.
 
