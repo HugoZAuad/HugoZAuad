@@ -18,6 +18,9 @@ jobs:
         with:
           LANG: "en"
 
+      - name: Verify README Changes
+        run: cat README.md
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Actions"
