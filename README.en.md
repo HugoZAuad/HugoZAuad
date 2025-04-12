@@ -18,9 +18,9 @@ I am a computer science student in love with technology and web development. I a
 
 I like to build interfaces that make sense, which are intuitive and functional, but also beautiful and agile. Because, at the end of the day, the code is not just about running, it is about creating**experiences**.
 
-💻**Skills**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js e Next.js.
+💻 **Habilidades**: HTML5, CSS3, JavaScript, TypeScript, TailWind CSS, BootStrap, Styled Components, Node.js, React.js e Next.js.
 
-🎯**Aim**: I seek my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.
+🎯**Aim**: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.
 
 * * *
 
@@ -70,6 +70,10 @@ I like to build interfaces that make sense, which are intuitive and functional, 
   <img src="https://github-readme-stats.vercel.app/api?username=hugozauad&show_icons=true&theme=nightowl&locale=pt-br" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugozauad&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=nightowl" height="150" alt="languages graph" />
 </section>
+
+* * *
+
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
 
 * * *
 
