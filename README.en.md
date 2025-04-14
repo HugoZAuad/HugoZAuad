@@ -6,7 +6,7 @@
 
 ### 
 
-<p align="left">I am a Computer Science student passionate about technology and web development. I'm always seeking to learn and grow in the field of programming.</p>
+<p align="left">I am a Computer Science student passionate about technology and web development. I am always looking to learn and grow in the development area.</p>
 
 ### 
 
