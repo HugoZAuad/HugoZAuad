@@ -1,5 +1,5 @@
 
-<h1 align="left">Selecione o idioma:</h1>
+<h3 align="left">Selecione o idioma:</h3>
 
 #### [English Readme](README.en.md) - [Português Readme](README.md)
 
