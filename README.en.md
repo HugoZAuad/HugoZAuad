@@ -1,4 +1,4 @@
-<h1 align="left">Select the language:</h1>
+<h3 align="left">Select the language:</h3>
 
 #### [English Readme](README.en.md)-[Portuguese readme](README.md)
 
