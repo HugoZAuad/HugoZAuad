@@ -6,19 +6,19 @@
 
 ### 
 
-<p align="left">I am a Computer Science student passionate about technology and web development. I am always looking to learn and grow in the development area.</p>
+<h3 align="left">I am a Computer Science student passionate about technology and web development. I am always looking to learn and grow in the development area.</h3>
 
 ### 
 
-<h2 align="left">About Me:</h2>
+<h1 align="left">About Me:</h1>
 
 ### 
 
-<p align="left">I enjoy building interfaces that make sense, that are intuitive and functional, but also beautiful and agile. Because, at the end of the day, code is not just about running—it's about creating experiences.<br><br>🎯 Goal: I am seeking my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.</p>
+<h3 align="left">I enjoy building interfaces that make sense, that are intuitive and functional, but also beautiful and agile. Because, at the end of the day, code is not just about running—it's about creating experiences.<br><br>🎯 Goal: I am seeking my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.</h3>
 
 ### 
 
-<h2 align="left">Tech Stack</h2>
+<h1 align="left">Tech Stack</h1>
 
 ### 
 
@@ -54,7 +54,7 @@
 
 ### 
 
-<h2 align="left">My Networks</h2>
+<h1 align="left">My Networks</h1>
 
 ### 
 
@@ -75,7 +75,7 @@
 
 ### 
 
-<h2 align="left">GitHub Statistics</h2>
+<h1 align="left">GitHub Statistics</h1>
 
 ### 
 
