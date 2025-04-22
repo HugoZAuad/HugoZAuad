@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="left">Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de aprender e crescer na área de desenvolvimento</h3>
+<p align="left">Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de aprender e crescer na área de desenvolvimento</p>
 
 ###
 
@@ -15,13 +15,13 @@
 
 ###
 
-<h3 align="left">Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar, é sobre criar experiências.<br>
+<p align="left">Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar, é sobre criar experiências.<br>
   
-  🎯 Objetivo: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.</h3>
+  🎯 Objetivo: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.</p>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h1 align="left">Tech Stack</h1>
 
 ###
 
