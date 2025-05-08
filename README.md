@@ -1,26 +1,22 @@
-#### [English Readme](README.en.md) - [Português Readme](README.md)
+<h1 align="center">Hello, I'm Hugo! 👋</h1>
 
-<h1 align="center">Olá, eu sou Hugo! 👋</h1>
+### 
 
-###
+<h3 align="left">I am a Computer Science student passionate about technology and web development. I am always looking to learn and grow in the development area.</h3>
 
-<p align="left">Sou um estudante de Ciências da Computação apaixonado por tecnologia e desenvolvimento web. Estou sempre em busca de aprender e crescer na área de desenvolvimento</p>
+### 
 
-###
+<h1 align="left">About Me:</h1>
 
-<h1 align="left">Sobre Mim:</h1>
+### 
 
-###
+<h3 align="left">I enjoy building interfaces that make sense, that are intuitive and functional, but also beautiful and agile. Because, at the end of the day, code is not just about running—it's about creating experiences.<br><br>🎯 Goal: I am seeking my first opportunity in the IT market to apply and expand my knowledge, contributing to innovative and challenging projects.</h3>
 
-<p align="left">Gosto de construir interfaces que fazem sentido, que são intuitivas e funcionais, mas também bonitas e ágeis. Porque, no fim do dia, o código não é só sobre rodar, é sobre criar experiências.<br>
-  
-  🎯 Objetivo: Busco minha primeira oportunidade no mercado de TI para aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e desafiadores.</p>
-
-###
+### 
 
 <h1 align="left">Tech Stack</h1>
 
-###
+### 
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
@@ -52,11 +48,11 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="30" alt="selenium logo"  />
 </div>
 
-###
+### 
 
-<h1 align="left">Minhas Redes</h1>
+<h1 align="left">My Networks</h1>
 
-###
+### 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hugozauad/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B13CSampPTjqvudApfppNpQ%3D%3D" target="_blank">
@@ -73,15 +69,15 @@
   </a>
 </div>
 
-###
+### 
 
-<h1 align="left">Estatísticas do GitHub</h1>
+<h1 align="left">GitHub Statistics</h1>
 
-###
+### 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
