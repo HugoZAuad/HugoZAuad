@@ -1,6 +1,3 @@
-
-<h3 align="left">Selecione o idioma:</h3>
-
 #### [English Readme](README.en.md) - [Português Readme](README.md)
 
 <h1 align="center">Olá, eu sou Hugo! 👋</h1>
