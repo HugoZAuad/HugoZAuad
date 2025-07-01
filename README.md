@@ -5,7 +5,7 @@ I am a **Computer Science student**, passionate about technology and web develop
 
 My focus is to create **intuitive, functional, and visually appealing interfaces**, ensuring agile and engaging experiences for users. After all, programming is more than just writing code—it's about transforming ideas into meaningful interactions.
 
-🎯 **Objective:** I am looking for my first opportunity in the IT market, where I can apply and expand my knowledge. I want to contribute to **innovative and challenging projects**, generating impact and learning from each experience.
+🎯 **Objective:** Software Engineer with hands-on experience in front-end development using React.js, Next.js, TypeScript and Node.js. Proven experience in volunteer projects applying micro-Front-End concepts, automated testing and Agile/Scrum methodologies. I seek to apply my technical skills in multidisciplinary teams, collaborating to create scalable and innovative web solutions.
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hbot0678) 
@@ -58,13 +58,13 @@ My focus is to create **intuitive, functional, and visually appealing interfaces
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HugoZAuad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# 📂 Project Summary
+# 📂 Featured Projects
 Here are some of the projects I have developed:
 
 - **[Personal Portfolio](https://github.com/HugoZAuad/DESAFIO-4---PORTFOLIO_REACT__RID66155)**: This project is a personal portfolio developed with React and TypeScript, using Vite as a build tool. It presents a modern and organized structure, focusing on good development practices, internationalization and a responsive and accessible interface.
-- **[File Manager - Node.js](https://github.com/HugoZAuad/FileManager-Node)**: This project is a command line tool (CLI) for file management, developed in Node.js. It allows you to create, list, read, write and delete files within a specific directory called `my_files`.
-- **[Architecture Project](https://github.com/HugoZAuad/PROJETO_ARQUITETURA)**: The goal of the project is to create a web application that displays a list of projects, allows saving favorites and uses a global context to manage language and dynamic texts.
-- **[API_Sales](https://github.com/HugoZAuad/API_Sales)**: This is a system designed to help you manage sales, customers, products, users, and orders. It was created using several modern tools and good programming practices to ensure that everything works properly, securely, and in an organized manner.
-- **[Sales Dashboard](https://github.com/HugoZAuad/Sales-Dashboard)**: DNC Sales Dashboard is a web application developed in React with TypeScript, which offers a complete dashboard for managing and visualizing sales data. The application has authentication, protected routes, interactive charts, and API integration.
+- **[API HOTEL](https://github.com/HugoZAuad/dnc_hotel)**: dnc_hotel is a backend API developed with NestJS to manage a hotel reservation system. The system allows user registration and authentication, hotel management, booking and control, as well as image upload for users and hotels.
+- **[API PRODUCTS](https://github.com/HugoZAuad/DESAFIO-6---API-PRODUCTS_RID66155)**: The project is an API built with Node.js and TypeScript that provides endpoints for CRUD (Create, Read, Update, Delete) operations on products, customers, and orders. It also manages product inventory and sales history.
+- **[book manager](https://github.com/HugoZAuad/Desafio_5_RID66155-FRONT-END-)**: This project is a frontend application developed in React that allows you to manage a book catalog. The application offers features for listing, registering, editing and deleting books, consuming a REST API for data persistence.
+- **[SALES DASHBOARD](https://github.com/HugoZAuad/Sales-Dashboard)**: DNC Sales Dashboard is a web application developed in React with TypeScript, which offers a complete dashboard for managing and visualizing sales data. The application has authentication, protected routes, interactive charts, and API integration.
 
 ---
