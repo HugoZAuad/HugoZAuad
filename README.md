@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Hugo, moro no Brasil, e atualmente estou fazendo faculdade de Ciências da computação, formado em administração, e finalizado curso técnico em Engenheiro de Software.</p>
+<p align="left">Meu nome é Hugo, moro no Brasil, e atualmente estou fazendo faculdade de Ciências da computação, formado em administração, e curso técnico finalizado em Engenheiro de Software.</p>
 
 ###
 
