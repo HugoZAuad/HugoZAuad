@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Hugo, moro no Brasil, e atualmente estou fazendo faculdade de Ciências da computação, formado em administração, e finalizado curso técnico em Desenvolvimento Web Full Stack.</p>
+<p align="left">Meu nome é Hugo, moro no Brasil, e atualmente estou fazendo faculdade de Ciências da computação, formado em administração, e finalizado curso técnico em Engenheiro de Software.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estou atualmente aprendendo sobre Tech Lead e Arquitetura de Software<br>🎯 Objetivos: Primeira oportunidade no mercado de trabalho de desenvolvimento<br>🎲 Fatos interessante: Sempre buscando formas de ter mais conhecimento, e sempre jogando um pouco</p>
+<p align="left">📚 Estou atualmente aprendendo sobre Tech Lead, Arquiteto de Software, e Java para o desenvolvimento back-end<br>🎯 Objetivos: Primeira oportunidade no mercado de trabalho de desenvolvimento<br>🎲 Fatos interessante: Sempre buscando formas de ter mais conhecimento, e sempre jogando um pouco</p>
 
 ###
 
