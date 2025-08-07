@@ -88,7 +88,7 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Pacman gif" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&locale=pt-br" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&order=1" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&layout=compact&langs_count=5&theme=onedark&locale=pt-br" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=HugoZAuad&theme=darkhub&column=-1&row=1" height="150" />
 </div>
