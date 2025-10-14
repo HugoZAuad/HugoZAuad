@@ -7,9 +7,9 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="left">
-  Meu nome é <strong>Hugo</strong>, moro no Brasil e sou desenvolvedor Full Stack com sólida base em <strong>Arquitetura de Software</strong>.<br><br>
-  🎓 Sou formado em Administração e cursei Engenharia de Software. Atualmente, aprofundo meus estudos na Graduação em <strong>Ciência da Computação</strong>.<br>
-  🎯 Objetivo: Conquistar minha primeira oportunidade profissional como desenvolvedor, aplicando o conhecimento robusto de Back-End com Java/Spring.<br>
+  Meu nome é <strong>Hugo</strong>, moro no Brasil e sou desenvolvedor Full Stack com sólida base em <strong>Engenheiro de Software</strong>.<br><br>
+  🎓 Sou formado em Administração e cursei profissionalizante em Engenharia de Software. Atualmente, aprofundo meus estudos na Graduação em <strong>Ciência da Computação</strong>.<br>
+  🎯 Objetivo: Evolução profissional como desenvolvedor de estagiario para junior.<br>
   🎮 Fato interessante: Sempre buscando formas de adquirir mais conhecimento—e jogando um pouco nos momentos livres!
 </p>
 
@@ -77,6 +77,7 @@
   <tr>
     <td>2025</td>
     <td>Início da Graduação em Ciências da Computação e foco em Java</td>
+    <td>Início do estagio em Software Engineer</td>
   </tr>
 </table>
 
