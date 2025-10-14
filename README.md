@@ -8,7 +8,7 @@
 
 <p align="left">
   Meu nome é <strong>Hugo</strong>, moro no Brasil e sou desenvolvedor Full Stack com sólida base em <strong>Engenheiro de Software</strong>.<br><br>
-  🎓 Sou formado em Administração e cursei profissionalizante em Engenharia de Software. Atualmente, aprofundo meus estudos na Graduação em <strong>Ciência da Computação</strong>.<br>
+  🎓 Sou formado em Administração e finalizei o curso profissionalizante em Engenharia de Software. Atualmente, aprofundo meus estudos na Graduação em <strong>Ciência da Computação</strong> e aprofundar os meus conhecimentos em java.<br>
   🎯 Objetivo: Evolução profissional como desenvolvedor de estagiario para junior.<br>
   🎮 Fato interessante: Sempre buscando formas de adquirir mais conhecimento—e jogando um pouco nos momentos livres!
 </p>
