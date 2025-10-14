@@ -75,9 +75,12 @@
     <td>Conclusão dos cursos técnicos Engenheiro de Software e Full Stack</td>
   </tr>
   <tr>
-    <td>2025</td>
+    <td>01/2025</td>
     <td>Início da Graduação em Ciências da Computação e foco em Java</td>
+    <tr>
+    <td>10/2025</td>
     <td>Início do estagio em Software Engineer</td>
+    </tr>
   </tr>
 </table>
 
