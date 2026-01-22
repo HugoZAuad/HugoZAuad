@@ -35,11 +35,14 @@
 </p>
 
 <div align="center">
-    <h3>Back-End & Foco Java (Especialização)</h3>
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,nodejs,nestjs" height="40" />
+    <h3>Foco Java (Especialização)</h3>
+    <img src="https://skillicons.dev/icons?i=java,spring,idea" height="40" />
+    <br><br>
+    <h3>Back-End (Proficiência)</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs" height="40" />
     <br><br>
     <h3>Front-End & Interfaces (Proficiência)</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,figma" height="40" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,figma" height="40" />
     <br><br>
     <h3>Banco de Dados & Cloud</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,firebase" height="40" />
