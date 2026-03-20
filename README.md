@@ -1,125 +1,129 @@
-<h1 align="center">👋 Olá, sou o Hugo!</h1>
+<div align="center">
 
-<p align="center">Engenheiro de Software com base Full Stack, atualmente focado na especialização em <b>Back-End Java (Spring Boot)</b> e <b>Segurança de Aplicações</b>.</p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&animation=fadeIn" />
 
-<hr>
+# Olá, eu sou o Hugo! 👋
 
-<h2 align="left">👨‍💻 Sobre mim</h2>
+### Engenheiro de Software · Estudante de Back-End Java · Entusiasta de AppSec
 
-<p align="left">
-  Meu nome é <strong>Hugo</strong>, moro no Brasil e sou desenvolvedor Full Stack com sólida base em <strong>Engenheiro de Software</strong>.<br><br>
-  🎓 Sou formado em Administração e finalizei o curso profissionalizante em Engenharia de Software. Atualmente, aprofundo meus estudos na Graduação em <strong>Ciência da Computação</strong> e aprofundar os meus conhecimentos em java.<br>
-  🎯 Objetivo: Evolução profissional como desenvolvedor de estagiario para junior.<br>
-  🎮 Fato interessante: Sempre buscando formas de adquirir mais conhecimento—e jogando um pouco nos momentos livres!
-</p>
+*"Da Administração para o desenvolvimento de software — movido pela curiosidade, moldado pelo código."*
 
-<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Zauad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
+[![Gmail](https://img.shields.io/badge/Gmail-hugozeymer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugozeymer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HugoZAuad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoZAuad)
 
-<h2 align="left">💡 Foco Atual de Estudo</h2>
+</div>
 
-<p align="left">
-    📚 Meu foco principal de especialização é:
-    <ul>
-        <li><strong>Back-End Java/Spring Boot</strong> (Desenvolvimento Enterprise e Microsserviços).</li>
-        <li><strong>Segurança de Aplicações (AppSec)</strong> e Arquitetura Segura.</li>
-        <li>Aprofundamento em <strong>DevOps</strong> (Docker e AWS) para ambientes Back-End.</li>
-    </ul>
-</p>
+---
 
-<hr>
+## 👨‍💻 Sobre mim
 
-<h2 align="left">🛠️ Tech Stack</h2>
+Oi! Sou o **Hugo**, desenvolvedor Full Stack com foco atual em **Back-End Java/Spring Boot** e **Segurança de Aplicações**. Minha trajetória começou em **Administração** — o que me deu uma visão de negócios que poucos devs têm — e evoluiu para a Engenharia de Software por pura paixão pela tecnologia.
 
-<p align="left">
-    Aqui estão as tecnologias que domino e as que estou dedicando tempo para especializar:
-</p>
+Hoje estou fazendo **Graduação em Ciência da Computação** e em **estágio como Software Engineer**, construindo experiência real no mercado enquanto avanço para a posição de desenvolvedor júnior.
+
+---
+
+| Ano | Marco |
+|-----|-------|
+| 🎓 2018 | Formado em **Administração** |
+| 🚀 2023 | Início do curso técnico em **Engenharia de Software** |
+| ✅ 2024 | Conclusão dos cursos de **Engenheiro de Software** + **Full Stack Developer** + **Design Patterns** |
+| 🎓 Jan/2025 | Início da **Graduação em Ciência da Computação** + foco intenso em Java |
+| 💼 Out/2025 | Primeiro **estágio em Engenharia de Software** 🎉 |
+| 🔥 Agora | Especialização em **Java/Spring Boot**, **AppSec** e **DevOps** |
+
+---
+
+## 🛠️ Tecnologias
+
+### 🎯 Foco Atual
+> Tecnologias que estou dominando agora
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### 🔧 Proficiência Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🎨 Front-End & Interfaces
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🏅 Certificações
+
+| Certificação | Status |
+|--------------|--------|
+| 🏆 Engenheiro de Software | ✅ Concluído |
+| 🏆 Desenvolvedor Full Stack | ✅ Concluído |
+| 🏆 Design Patterns | ✅ Concluído |
+| 🎓 Bacharelado em Ciência da Computação | 🔄 Em andamento |
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-    <h3>Foco Java (Especialização)</h3>
-    <img src="https://skillicons.dev/icons?i=java,spring,idea" height="40" />
-    <br><br>
-    <h3>Back-End (Proficiência)</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs" height="40" />
-    <br><br>
-    <h3>Front-End & Interfaces (Proficiência)</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,figma" height="40" />
-    <br><br>
-    <h3>Banco de Dados & Cloud</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,firebase" height="40" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&layout=compact&langs_count=6&theme=tokyonight&locale=en&hide_border=true" height="155" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoZAuad&theme=tokyonight&hide_border=true" height="155" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app?username=HugoZAuad&theme=tokyonight&column=-1&row=1&no-frame=true&margin-w=8" height="130" />
+
 </div>
 
-<hr>
+---
 
-<h2 align="left">🏆 Certificações & Conquistas</h2>
-<ul>
-  <li><strong>Engenheiro de Software</strong> (Concluído)</li>
-  <li><strong>Desenvolvedor Full Stack</strong> (Concluído)</li>
-  <li><strong>Design Patterns</strong> (Concluído)</li>
-</ul>
-
-<hr>
-
-<h2 align="left">📅 Linha do tempo de aprendizado</h2>
-<table>
-  <tr>
-    <th>Ano</th>
-    <th>Conquistas</th>
-  </tr>
-  <tr>
-    <td>2018</td>
-    <td>Formado em Administração</td>
-  </tr>
-  <tr>
-    <td>2023</td>
-    <td>Início do curso técnico em Engenharia de Software</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>Conclusão dos cursos técnicos Engenheiro de Software e Full Stack</td>
-  </tr>
-  <tr>
-    <td>01/2025</td>
-    <td>Início da Graduação em Ciências da Computação e foco em Java</td>
-    <tr>
-    <td>10/2025</td>
-    <td>Início do estagio em Software Engineer</td>
-    </tr>
-  </tr>
-</table>
-
-<hr>
-
-<h2 align="left">🌐 Conecte-se e Veja Meu Trabalho</h2>
-
-<div align="left">
-    <a href="https://www.linkedin.com/in/hugozauad/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-    </a>
-    <a href="mailto:hugozeymer@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-    </a>
-</div>
-
-<hr>
-
-<h2 align="left">📊 Status e Contribuição</h2>
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Pacman gif" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&order=1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&layout=compact&langs_count=5&theme=onedark&locale=pt-br" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=HugoZAuad&theme=darkhub&column=-1&row=1" height="150" />
-</div>
-
-<br clear="both">
+## 🌊 Gráfico de Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoZAuad/HugoZAuad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoZAuad/HugoZAuad/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/HugoZAuad/HugoZAuad/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoZAuad/HugoZAuad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoZAuad/HugoZAuad/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/HugoZAuad/HugoZAuad/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
-<hr>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoZAuad&theme=monokai" />
-</p>
+---
+
+## 💬 Vamos nos Conectar!
+
+<div align="center">
+
+Estou sempre aberto a conversas sobre **Java**, **arquitetura back-end**, **segurança de aplicações** ou tecnologia em geral. Fique à vontade para entrar em contato!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
+[![Gmail](https://img.shields.io/badge/Me_manda_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugozeymer@gmail.com)
+
+<br/>
+
+*"O melhor código que já escrevi é o que ainda não escrevi."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&animation=fadeIn" />
+
+</div>
