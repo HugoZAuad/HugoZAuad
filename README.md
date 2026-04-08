@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Hugo! 👋
 
-### Software Engineer | Cybersecurity & Identity Management (IAM) | Java & Spring Boot
+### Software Engineer | Cybersecurity & Identity Management (IAM)
 🛡️ **Okta Certified** · AppSec Student · DevSecOps Enthusiast
 
 *"Segurança não é um produto, é um processo — e ele começa no código."*
@@ -21,7 +21,7 @@
 
 Sou o **Hugo**, desenvolvedor focado em construir sistemas escaláveis e, acima de tudo, **seguros**. Minha transição da Administração para a Tecnologia me permitiu unir a visão estratégica de processos e gestão de riscos ao desenvolvimento de software de alta performance.
 
-Hoje, atuo como **Software Engineer na Sootz**, focando minha energia em **IAM (Identity & Access Management)** e na proteção de APIs no ecossistema **Java/Spring**. Acredito que o desenvolvedor moderno precisa ser o primeiro agente de defesa da aplicação.
+Hoje, atuo como **Software Engineer na Sootz**, focando minha energia em **IAM (Identity & Access Management)** e na proteção de APIs no ecossistema 
 
 ---
 
@@ -44,8 +44,6 @@ Hoje, atuo como **Software Engineer na Sootz**, focando minha energia em **IAM (
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### 🎯 Core Back-End
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
