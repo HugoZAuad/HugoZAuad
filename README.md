@@ -1,125 +1,96 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Hugo%20Zeymer%20Auad&fontSize=40&animation=fadeIn&fontAlignY=35" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&animation=fadeIn" />
+### 🔐 Cybersecurity Analyst (Blue Team | AppSec) | Software Engineer
+**Construindo sistemas resilientes e defendendo infraestruturas críticas.**
 
-# 👋 Olá, eu sou o Hugo!
-
-### 🔐 Cybersecurity Analyst (Blue Team | AppSec) | IAM & API Security
-
-🛡️ Okta Certified · AppSec · DevSecOps · Security Automation
-
-*"Segurança não é um produto, é um processo — e ele começa no código."*
+🛡️ *“Segurança não é um produto, é um processo — e ele começa no código.”*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Zauad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
 [![Gmail](https://img.shields.io/badge/Gmail-hugozeymer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugozeymer@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-HugoZAuad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoZAuad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-sand-five.vercel.app)
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Perfil Profissional
 
-Sou estudante de Ciência da Computação com foco em **Cybersecurity**, atuando principalmente em:
+Sou um desenvolvedor de software focado em **Segurança Cibernética**, com sólida experiência na criação de aplicações SaaS e análise investigativa de sistemas.  Atualmente, atuo como **Software Engineering na Sootz**, onde integro práticas de AppSec diretamente no ciclo de desenvolvimento.
 
-- 🔵 Blue Team (SOC, análise de logs, detecção de incidentes)
-- 🔴 Application Security (OWASP Top 10)
-- 🟡 Identity & Access Management (IAM)
-- 🟢 Segurança de APIs
+Minha trajetória é guiada por uma abordagem analítica e pela disciplina de **concluir cada ciclo de aprendizado** antes de avançar para o próximo.
 
-Atualmente trabalho com desenvolvimento de aplicações seguras e automação de processos de segurança, incluindo a criação de ferramentas para **identificação de vulnerabilidades em código e geração de relatórios de segurança**.
-
-Tenho como objetivo atuar como **Cybersecurity Analyst (SOC / AppSec)**, aplicando análise investigativa, monitoramento de sistemas e proteção de aplicações.
-
----
-
-## 🔐 Cybersecurity Portfolio
-
-Projetos práticos focados em segurança ofensiva e defensiva:
-
-### 🔍 Em desenvolvimento
-
-- 🔵 Log Threat Detector (SOC Lab)
-- 🔴 Secure API Lab (OWASP Top 10)
-- 🟡 IAM Authorization System (RBAC / ABAC)
-- 🧠 AI Security Code Analyzer (SAST + relatório em PDF)
+- 🎓 **Bacharelando em Ciência da Computação** (Gran Faculdade, 2025-2028).
+- 🛡️ **Foco em Defesa:** Especialista em monitoramento de logs, investigação de causa raiz e mitigação de vulnerabilidades (OWASP Top 10).
+- ⚙️ **Desenvolvimento Seguro:** Experiência em Node.js e TypeScript com foco em IAM (RBAC/ABAC) e proteção de APIs.
+- 🗣️ **Idiomas:** Inglês Intermediário (leitura técnica).
+- 📍 Maceió - AL, Brasil.
 
 ---
 
-## 🚀 Destaque técnico
+## 🚀 Destaques de Impacto
 
-- 🔐 Segurança de APIs (JWT, OAuth2, validação e sanitização)
-- 🧠 Automação de segurança com Node.js
-- 📊 Análise de logs e identificação de padrões suspeitos
-- 🛡️ Mitigação de vulnerabilidades OWASP Top 10
-- 🔑 IAM (RBAC, ABAC, controle de acesso granular)
+**Vivver Sistemas:** Redução de **40% nos chamados de suporte** através da otimização de configurações e investigação detalhada de logs e bancos de dados.<br>
+**Sootz:** Implementação ativa de controles de acesso (RBAC/ABAC) e autenticação JWT em aplicações SaaS modernas.<br>
+**Hasty Dev:** Desenvolvimento voluntário com foco em prevenção de XSS e validação rigorosa de dados no front-end.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Tecnológica & Defesa
 
-### 🔐 Cybersecurity
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+### 🛡️ Cybersecurity & Infra
+- **Defesa:** Blue Team, Análise de Logs, OWASP Top 10, IAM (RBAC/ABAC).
+- **Redes:** TCP/IP, DNS, HTTP/S, TLS/SSL, Wireshark.
+- **DevSecOps:** Docker, GitHub Actions, CI/CD Seguro.
 
-### 💻 Back-End & Segurança
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Infra & DevSecOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 💻 Desenvolvimento Full Stack
+- **Back-end:** Node.js, TypeScript, NestJS.
+- **Front-end:** React.js, Next.js, Tailwind CSS.
+- **Dados:** PostgreSQL, MongoDB (Análise e Integridade).
 
 ---
 
-## 🏅 Certificações
+## 🎯 Próximos Passos (Roadmap de Prioridades)
 
-- 🏆 Okta Platform Core Essentials — Concluído  
-- 🛡️ Cyber Academy — Concluído  
-- 🎯 CompTIA Security+ — Em preparação  
+Sigo um plano de desenvolvimento estruturado em fases para consolidar minha expertise:
+
+| Fase | Foco Principal | Status |
+| :--- | :--- | :--- |
+| **Fase 1** | CC, FIAP Cybersecurity, Fortinet (Threat Intel) e Cisco Jr. Analyst. | 🔄 Em Execução |
+| **Fase 2** | Linux Fundamentals, Bash Scripting e Laboratórios TryHackMe (SOC Level 1). | 📅 Planejado |
+| **Fase 3** | **Certificação CompTIA Security+ (SY0-701)** e Pentest Labs. | 📅 Planejado |
+| **Fase 4** | CompTIA CySA+ e Especialização (Pós-Graduação) em Defesa Cibernética. | 🚀 Objetivo |
 
 ---
 
-## 📊 Estatísticas
+## 🏅 Certificações & Conquistas
+
+- 🎓 **Bacharelado em Ciência da Computação** (Em andamento).
+- 🛡️ **FIAP - Cybersecurity** (120h) — Concluído.
+- 🌐 **Fortinet & Cisco** — Cursos de Fundamentos e Análise de Segurança.
+- 🔑 **Okta** — Platform Core Essentials.
+- 🎯 **CompTIA Security+** — Em preparação ativa.
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+---
+
+## 💬 Conecte-se Comigo
+
+Estou sempre interessado em trocar conhecimentos sobre arquitetura de sistemas seguros e operações de Blue Team.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
+[![Email](https://img.shields.io/badge/E--mail-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugozeymer@gmail.com)
 
 </div>
-
----
-
-## 🎯 Objetivo profissional
-
-Atuar como **Cybersecurity Analyst (SOC / AppSec)**, contribuindo com:
-
-- Monitoramento de segurança
-- Análise de incidentes
-- Proteção de aplicações
-- Automação de processos defensivos
-
----
-
-## 💬 Vamos nos conectar
-
-Estou sempre aberto a trocar ideias sobre:
-
-- Cybersecurity
-- Application Security
-- IAM
-- DevSecOps
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
-[![Email](https://img.shields.io/badge/Enviar_E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugozeymer@gmail.com)
-
-</div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&animation=fadeIn" />
