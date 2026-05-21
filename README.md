@@ -1,96 +1,66 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Hugo%20Zeymer%20Auad&fontSize=40&animation=fadeIn&fontAlignY=35" />
+# Olá, eu sou o Hugo Zeymer 👋
 
-### 🔐 Cybersecurity Analyst (Blue Team | AppSec) | Software Engineer
-**Construindo sistemas resilientes e defendendo infraestruturas críticas.**
+### Analista de Defesa Cibernética | Aspirante a Threat Hunter & SOC Analyst | Estudante de Ciência da Computação
 
-🛡️ *“Segurança não é um produto, é um processo — e ele começa no código.”*
+Sou um profissional com sólida base em Engenharia de Software a transicionar o meu foco absoluto para a **Segurança Defensiva (Blue Team) e DevSecOps**. Utilizo a minha experiência com arquitetura de sistemas, lógica avançada e programação (ecossistema Node.js/TypeScript) para construir ferramentas de auditoria, automatizar processos de triagem de incidentes e analisar telemetria de infraestrutura.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Zauad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
-[![Gmail](https://img.shields.io/badge/Gmail-hugozeymer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugozeymer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-sand-five.vercel.app)
-
-</div>
+Acredito que o analista de SOC moderno não deve apenas reagir a alertas de ferramentas prontas, mas sim compreender a fundo o comportamento do adversário para codificar mecanismos de deteção e mitigar riscos na esteira de desenvolvimento.
 
 ---
 
-## 🧠 Perfil Profissional
+## 🎯 Foco de Estudo Atual & Roadmap
 
-Sou um desenvolvedor de software focado em **Segurança Cibernética**, com sólida experiência na criação de aplicações SaaS e análise investigativa de sistemas.  Atualmente, atuo como **Software Engineering na Sootz**, onde integro práticas de AppSec diretamente no ciclo de desenvolvimento.
-
-Minha trajetória é guiada por uma abordagem analítica e pela disciplina de **concluir cada ciclo de aprendizado** antes de avançar para o próximo.
-
-- 🎓 **Bacharelando em Ciência da Computação** (Gran Faculdade, 2025-2028).
-- 🛡️ **Foco em Defesa:** Especialista em monitoramento de logs, investigação de causa raiz e mitigação de vulnerabilidades (OWASP Top 10).
-- ⚙️ **Desenvolvimento Seguro:** Experiência em Node.js e TypeScript com foco em IAM (RBAC/ABAC) e proteção de APIs.
-- 🗣️ **Idiomas:** Inglês Intermediário (leitura técnica).
-- 📍 Maceió - AL, Brasil.
+- **Análise de Tráfego de Rede:** Interpretação e dissecação de pacotes (arquivos PCAP) utilizando Wireshark para isolar vetores de ataque.
+- **SIEM & Engenharia de Deteção:** Ingestão de logs de segurança (Sysmon/Windows Event Logs) em plataformas SIEM (Splunk) e escrita de regras comportamentais.
+- **Inteligência de Ameaças:** Mapeamento de táticas e técnicas de adversários através do desenvolvimento de assinaturas YARA e regras Sigma.
+- **Certificação Alvo:** Preparação intensiva para o exame **CompTIA Security+ SY0-701** (Meta: 2026).
 
 ---
 
-## 🚀 Destaques de Impacto
+## 🛠️ Tecnologias e Ferramentas
 
-**Vivver Sistemas:** Redução de **40% nos chamados de suporte** através da otimização de configurações e investigação detalhada de logs e bancos de dados.<br>
-**Sootz:** Implementação ativa de controles de acesso (RBAC/ABAC) e autenticação JWT em aplicações SaaS modernas.<br>
-**Hasty Dev:** Desenvolvimento voluntário com foco em prevenção de XSS e validação rigorosa de dados no front-end.
-
----
-
-## 🛠️ Stack Tecnológica & Defesa
-
-### 🛡️ Cybersecurity & Infra
-- **Defesa:** Blue Team, Análise de Logs, OWASP Top 10, IAM (RBAC/ABAC).
-- **Redes:** TCP/IP, DNS, HTTP/S, TLS/SSL, Wireshark.
-- **DevSecOps:** Docker, GitHub Actions, CI/CD Seguro.
-
-### 💻 Desenvolvimento Full Stack
-- **Back-end:** Node.js, TypeScript, NestJS.
-- **Front-end:** React.js, Next.js, Tailwind CSS.
-- **Dados:** PostgreSQL, MongoDB (Análise e Integridade).
+- 🛡️ **Defesa, SIEM & Redes:** Splunk, Wireshark, Sysmon, Event Viewer, Linux/Windows Internals, TCP/IP
+- 🐍 **Automação & DevSecOps:** Python, Bash Scripting, Node.js, NestJS, TypeScript, Docker, CI/CD (GitHub Actions)
+- 🗄️ **Persistência & Dados:** PostgreSQL, Prisma ORM, MongoDB, Estruturação de Logs e Audit Trails
 
 ---
 
-## 🎯 Próximos Passos (Roadmap de Prioridades)
+## 🔬 Projetos de Engenharia de Segurança em Destaque
 
-Sigo um plano de desenvolvimento estruturado em fases para consolidar minha expertise:
+*Abaixo estão as ferramentas corporativas e laboratórios práticos que desenvolvi para automatizar a defesa e auditar ambientes:*
 
-| Fase | Foco Principal | Status |
-| :--- | :--- | :--- |
-| **Fase 1** | CC, FIAP Cybersecurity, Fortinet (Threat Intel) e Cisco Jr. Analyst. | 🔄 Em Execução |
-| **Fase 2** | Linux Fundamentals, Bash Scripting e Laboratórios TryHackMe (SOC Level 1). | 📅 Planejado |
-| **Fase 3** | **Certificação CompTIA Security+ (SY0-701)** e Pentest Labs. | 📅 Planejado |
-| **Fase 4** | CompTIA CySA+ e Especialização (Pós-Graduação) em Defesa Cibernética. | 🚀 Objetivo |
+### 1. [Sentinel CLI 🛡️](https://github.com/HugoZAuad/sentinel-cli)
+Framework Enterprise de Segurança Cibernética e Scanner de Vulnerabilidades desenvolvido em **NestJS, TypeScript e PostgreSQL (via Prisma)**. 
 
----
+- **O que faz:** Orquestra operações ofensivas (Red) e defensivas (Blue) numa plataforma CLI unificada. Utiliza um motor baseado em Puppeteer para realizar crawling dinâmico e deteção de falhas (XSS, SQLi, DOM XSS, LFI) em SPAs (Single Page Applications).
+- **Abordagem Blue Team:** Integração com a **NVD API (NIST)** para correlação de CVEs baseada em fingerprint de stack tecnológica, auditoria de headers críticos de segurança (HSTS, CSP, X-Frame-Options) e geração de relatórios executivos estruturados em PDF com cálculo automatizado de *Security Score* (0-100).
+`#NestJS #TypeScript #Puppeteer #PostgreSQL #PrismaORM #NVD-API #SOLID #CleanArchitecture`
 
-## 🏅 Certificações & Conquistas
+### 2. [Security Audit Toolkit 🔐](https://github.com/HugoZAuad/security-audit-toolkit)
+Toolkit modular focado em DevSecOps para automação de auditoria e análise estática de segurança (SAST) em projetos Node.js, operando via CLI ou como biblioteca integrada.
 
-- 🎓 **Bacharelado em Ciência da Computação** (Em andamento).
-- 🛡️ **FIAP - Cybersecurity** (120h) — Concluído.
-- 🌐 **Fortinet & Cisco** — Cursos de Fundamentos e Análise de Segurança.
-- 🔑 **Okta** — Platform Core Essentials.
-- 🎯 **CompTIA Security+** — Em preparação ativa.
+- **O que faz:** Atua diretamente na esteira de CI/CD para mitigar riscos de *Supply Chain Attacks* e vazamento de credenciais. Centraliza processos de `npm audit` e varreduras automatizadas de código.
+- **Abordagem Blue Team:** Deteta padrões críticos de risco em tempo de execução, como uso de funções perigosas (`eval`), tokens e webhooks hardcoded sem validação, e regras permissivas de base de dados, gerando relatórios históricos detalhados em Markdown.
+`#Nodejs #TypeScript #DevSecOps #SAST #ESLint #Automation #SecurityAudit`
 
 ---
 
-## 📊 Atividade no GitHub
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoZAuad&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
+<p align="left">
+  <img src="[https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=dark&include_all_commits=true&count_private=true)" alt="HugoZAuad GitHub Stats" height="150" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&layout=compact&langs_count=6&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&layout=compact&langs_count=6&theme=dark)" alt="HugoZAuad Top Langs" height="150" />
+</p>
 
 ---
 
-## 💬 Conecte-se Comigo
+## 📇 Conecta-te Comigo
 
-Estou sempre interessado em trocar conhecimentos sobre arquitetura de sistemas seguros e operações de Blue Team.
+- 💼 **LinkedIn:** [linkedin.com/in/hugozauad](https://www.linkedin.com/in/hugozauad)
+- 📧 **E-mail:** hugozeymer@gmail.com
+- 🎓 **Formação:** Bacharelado em Ciência da Computação (Gran Faculdade) | Bacharelado em Administração (Estácio, 2018)
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugozauad/)
-[![Email](https://img.shields.io/badge/E--mail-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugozeymer@gmail.com)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&animation=fadeIn" />
+---
+<p align="center">
+  <sub>"Com grandes poderes vêm grandes responsabilidades. Use o conhecimento para fortalecer e proteger." 🔐</sub>
+</p>
