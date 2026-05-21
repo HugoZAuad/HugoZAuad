@@ -45,15 +45,6 @@ Toolkit modular focado em DevSecOps para automação de auditoria e análise est
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=HugoZAuad&show_icons=true&theme=dark&include_all_commits=true&count_private=true)" alt="HugoZAuad GitHub Stats" height="150" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&layout=compact&langs_count=6&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZAuad&layout=compact&langs_count=6&theme=dark)" alt="HugoZAuad Top Langs" height="150" />
-</p>
-
----
-
 ## 📇 Conecta-te Comigo
 
 - 💼 **LinkedIn:** [linkedin.com/in/hugozauad](https://www.linkedin.com/in/hugozauad)
